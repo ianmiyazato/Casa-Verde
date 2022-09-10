@@ -1,0 +1,12 @@
+:root {
+    --amarelo: #FFCB47;
+    --amarelo-transparente: rgba(255, 203, 71, 0.3);
+    --branco: #FFFFFF;
+    --cinza: #909090;
+    --preto: #202020;
+    --preto-transparente: rgba(0, 0, 0, 0.06);
+
+    --familia-corpo: 'Montserrat', sans-serif;
+    --tamanho-corpo: 1rem;
+
+}
