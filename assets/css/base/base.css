@@ -1,5 +1,5 @@
-@import './_reset.css';
-@import './_variaveis.css';
+@import url("_reset.css");
+@import url("_variaveis.css");
 
 body {
     font-family: var(--familia-corpo);
